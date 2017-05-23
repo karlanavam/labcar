@@ -157,6 +157,30 @@ iframe {
     margin-left: 10%;
 }
 
+/*FOOTER*/
+
+footer{
+    background-color: dimgrey;
+    color: white;
+    padding-top: 3%;
+}
+
+footer section div div div h5 {
+    font-size: .98em;
+}
+
+footer section div div div img {
+    margin-bottom: 8%;
+}
+
+.pd-appsUno {
+    padding-top: 21%;
+}
+
+.pd-apps {
+    padding-top: 100%;
+}
+
 /* INICIA SESIÓN - form */
 
 .bg-form{
