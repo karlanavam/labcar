@@ -1,15 +1,22 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: beige;
+    background-color: orange;
 }
 
 #header {
-    background-color: black;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
-header ul li a {
-    font-family: monospace;
-    color: bisque;
-    font-size: 1.2em;
+.pd-t-nav{
+    padding-top: .6%;
+}
+
+#header div a {
+    font-family: sans-serif;
+    color: black;
+    font-size: 1em;
+    width: 100%;
 }
