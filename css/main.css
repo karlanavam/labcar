@@ -4,7 +4,7 @@ body{
     background-color: orange;
 }
 
-#header {
+#headerNav {
     background-color: white;
     padding-top: 1%;
     padding-bottom: 1%;
@@ -22,7 +22,7 @@ body{
 }
 
 
-header {
+#header {
     background-image: url(/img/taxi.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
