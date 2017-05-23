@@ -20,3 +20,33 @@ body{
     font-size: 1em;
     width: 100%;
 }
+
+
+header {
+    background-image: url(/img/taxi.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 660px;
+}
+
+
+
+/*form*/
+
+.bg-form{
+    background-color: ghostwhite;    
+}
+
+.pd-l-form {
+    padding-top: 5%;
+    padding-left: 6%;
+}
+
+#imgForm {
+    width: 35%;
+    margin-left: 22%;
+    margin-top: -9%;
+    margin-bottom: 5%;
+}
